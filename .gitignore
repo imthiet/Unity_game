@@ -1,0 +1,12 @@
+# Bỏ qua thư mục không cần thiết
+Library/
+Temp/
+Logs/
+obj/
+Build/
+Packages/
+UserSettings/
+.vscode/
+*.csproj
+*.sln
+*.unitypackage
